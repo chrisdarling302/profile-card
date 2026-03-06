@@ -1,5 +1,5 @@
 body {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: "VT323", monospace;
   background-color: rgb(62, 58, 58);
   text-align: center;
   padding: 50px;
@@ -26,14 +26,14 @@ a {
   margin-bottom: 15px;
 }
 
-.card h2 {
+.card h1 {
   color: black;
   margin-bottom: 5px;
 }
 
 .card p {
   color: black;
-  font-size: 15px;
+  font-size: 24px;
   margin: 8px 0;
 }
 
@@ -45,7 +45,7 @@ a {
   text-align: center; /* Center the text */
   text-decoration: none; /* Remove underline */
   display: inline-block; /* Allows padding and margin to work correctly */
-  font-weight: bold;
+  font-size: 24px;
   border-radius: 8px; /* Rounded corners */
   cursor: pointer; /* Ensures the cursor shows as a hand */
   border: none; /* Optional: remove default link border */
