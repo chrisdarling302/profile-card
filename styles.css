@@ -38,7 +38,7 @@ a {
 }
 
 .button-link {
-  background-color: black; /* color of button */
+  background-color: #000000; /* color of button */
   color: white; /* White text */
   padding: 15px 25px; /* Spacing around the text */
   margin-top: 10px;
@@ -52,10 +52,10 @@ a {
 }
 
 .button-link:hover {
-  background-color: darkslategray; /* change color on hover */
+  background-color: #2f4f4f; /* change color on hover */
   transition: .5s;
 }
 
 .button-link:active {
-  background-color: darkgray; /* another color when clicked */
+  background-color: #a9a9a9; /* another color when clicked */
 }
