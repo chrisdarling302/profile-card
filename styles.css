@@ -45,6 +45,7 @@ a {
   text-align: center; /* Center the text */
   text-decoration: none; /* Remove underline */
   display: inline-block; /* Allows padding and margin to work correctly */
+  font-weight: bold;
   border-radius: 8px; /* Rounded corners */
   cursor: pointer; /* Ensures the cursor shows as a hand */
   border: none; /* Optional: remove default link border */
